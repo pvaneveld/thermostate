@@ -6,6 +6,7 @@
     import ml5 from "ml5";
     import { onMount } from "svelte";
     import { fly } from "svelte/transition";
+    import Loader from "./Loader.svelte";
 
     let text: string;
     let submitted = false;
@@ -83,6 +84,8 @@
             </div>
         {/if}
     </section>
+{:else}
+    <Loader />
 {/if}
 
 <style>
