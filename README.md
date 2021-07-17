@@ -1,5 +1,9 @@
 ## Thermostate
 
+## :link: Where
+
+Project can be found in aciton [here]: https://silly-swartz-1bf86e.netlify.app/
+
 ### :mag: What?
 
 Thermostate is a simple / fun tool that predicts the sentiment (positive/negative) of given text.
