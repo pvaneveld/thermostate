@@ -2,7 +2,7 @@
 
 ## :link: Where
 
-Project can be found in aciton [here]: https://silly-swartz-1bf86e.netlify.app/
+Project can be found [here]https://silly-swartz-1bf86e.netlify.app/
 
 ### :mag: What?
 
