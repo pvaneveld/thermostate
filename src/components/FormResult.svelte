@@ -70,7 +70,6 @@
             easing: "easeInOutSine",
             delay: anime.stagger(50),
             complete: (anime) => {
-                console.log("bleh");
                 dispatch("resultAnimationDone");
             },
         });
