@@ -88,7 +88,6 @@
         const totalGridWith = cols;
         const startOfCenter = (cols - resultGridWith) / 2;
 
-        // change later on
         const gridToColor = isPositive ? positive : negative;
 
         const coloredPositions = gridToColor.map(
